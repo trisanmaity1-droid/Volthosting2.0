@@ -1,0 +1,7 @@
+python-telegram-bot
+aiosqlite
+aiohttp
+Flask
+python-dotenv
+Pillow
+qrcode
